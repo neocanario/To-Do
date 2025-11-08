@@ -31,7 +31,7 @@ No prerequisites needed! This is a simple static web application that runs direc
 
 1. **Clone the repository** or download the files:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/neocanario/To-Do.git
    ```
 
 2. **Navigate to the project directory**:
